@@ -7,6 +7,11 @@
 ![example](https://i.imgur.com/Lbi4t1o.gif)
 
 ```
+import Carousel from './components/Vue3-Carousel'
+createApp(App).use(Carousel)......
+```
+
+```
  <Carousel>
       <div id="carousel-1" class="carousel-item custom-slide">😎</div>
       <div id="carousel-2" class="carousel-item custom-slide">😪</div>

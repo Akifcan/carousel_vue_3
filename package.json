@@ -1,6 +1,6 @@
 {
   "name": "carousel_vue_3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add carousel for you vue.js 3 applications",
   "main": "Vue3-Carousel.js",
   "scripts": {
