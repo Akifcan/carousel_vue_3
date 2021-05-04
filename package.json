@@ -1,0 +1,25 @@
+{
+  "name": "carousel_vue_3",
+  "version": "1.0.0",
+  "description": "Add carousel for you vue.js 3 applications",
+  "main": "Vue3-Carousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akifcan/carousel_vue_3.git"
+  },
+  "keywords": [
+    "carousel",
+    "vue.js",
+    "vue3",
+    "slider"
+  ],
+  "author": "seaapi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akifcan/carousel_vue_3/issues"
+  },
+  "homepage": "https://github.com/Akifcan/carousel_vue_3#readme"
+}
